@@ -1,0 +1,19 @@
+# Ignore the following directories
+dconf
+evolution
+gnome-session
+goa-1.0
+gtk-3.0
+ibus
+nautilus
+pulse
+ranger
+update-notifier
+
+# Ignore files
+gnome-initial-setup-done
+install.sh
+monitors.xml
+monitors.xml~
+user-dirs.dirs
+user-dirs.locale
